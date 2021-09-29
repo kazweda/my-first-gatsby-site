@@ -15,8 +15,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.13.0",
+    "gatsby": "next",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "uuid": "^8.3.2"
   }
 }
